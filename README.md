@@ -15,9 +15,10 @@ Actively seeking internship opportunities to gain hands-on industry experience a
 
 ## 💻 Tech Stack
 
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
