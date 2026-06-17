@@ -24,3 +24,9 @@ Actively seeking internship opportunities to gain hands-on industry experience a
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
+
+![snake gif](https://github.com/ALEEZAMEMON/ALEEZAMEMON/blob/output/github-snake-dark.svg)
+
+
+
+
