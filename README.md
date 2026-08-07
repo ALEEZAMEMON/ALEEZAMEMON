@@ -1,3 +1,10 @@
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Aleeza
+</h1>
+
+
+---
+
 A Full Stack Developer with a strong focus on backend engineering.
 Works with Java, RESTful APIs, MySQL, and React for frontend development.
 Implements software engineering principles and follows design architecture practices in projects.
