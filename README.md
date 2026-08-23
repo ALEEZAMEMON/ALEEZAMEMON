@@ -27,6 +27,7 @@ Actively seeking internship opportunities to gain hands-on industry experience a
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
