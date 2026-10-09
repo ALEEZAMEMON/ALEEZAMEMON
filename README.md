@@ -3,7 +3,6 @@
 </h1>
 
 
----
 
 A Full Stack Developer with a strong focus on backend engineering.
 Works with Java, RESTful APIs, MySQL, and React for frontend development.
