@@ -5,6 +5,8 @@
 
 
 
+
+
 A Full Stack Developer with a strong focus on backend engineering.
 Works with Java, RESTful APIs, MySQL, and React for frontend development.
 Implements software engineering principles and follows design architecture practices in projects.
