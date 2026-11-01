@@ -9,6 +9,7 @@ Works with Java, RESTful APIs, MySQL, and React for frontend development.
 Implements software engineering principles and follows design architecture practices in projects.
 Dedicated to writing clean, maintainable, and scalable code.
 Continuously building real-world projects to improve practical skills and understanding.
+Actively seeking internship opportunities to gain hands-on industry experience and contribute effectively.
 
 
 
