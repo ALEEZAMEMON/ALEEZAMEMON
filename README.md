@@ -4,7 +4,7 @@
 
 
 
-
+A Full Stack Developer with a strong focus on backend engineering.
 
 
 ## 🌐 Socials
